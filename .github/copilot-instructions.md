@@ -1,6 +1,7 @@
 # copilot-instructions.md
 
 ## ロール定義
+Spring Boot REST API
 
 ## ツール
 
